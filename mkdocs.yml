@@ -1,5 +1,6 @@
-site_name: Ankamala Insights-Data and Investigations
-site_url: https://github.com/olafOlaffff/blogs.git
+site_name: Ankamala Insights - Data and Investigations
+site_url: https://github.com/olafOlaffff/blogs
+
 theme:
   name: material
   features:
@@ -19,15 +20,14 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: teal
-      accent: purple 
+      accent: peach
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
-
-
+      primary: deep-blue
+      accent: peach  
+     
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -37,12 +37,14 @@ markdown_extensions:
   - admonition
   - pymdownx.arithmatex:
       generic: true
-  - footnotes
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
 
-
 copyright: |
-  &copy; 2024 <a href=""  target="_blank" rel="noopener">Olaf</a>
+ &copy; 2024 <a href="https://ankamala.org" target="_blank" rel="noopener">Ankamala</a>
+
+extra:
+    social: false
+    generator: false

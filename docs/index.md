@@ -1,5 +1,5 @@
 
-Welcome to *Ankamala Articles*, where every data meets insight. Herein, we go deep into the stories lying beneath data, discover trends, derive meaningful conclusions, and share insights that actually matter. 
+Welcome to *Ankamala Insights*, where every data meets insight. Herein, we go deep into the stories lying beneath data, discover trends, derive meaningful conclusions, and share insights that actually matter. 
 
 At Ankamala, it is all about creating stories from raw data. Be it the understanding of public data that's so vague and scattered, the latest press releases, finding a hidden pattern in any social issue, or actionable recommendations, we strive to ensure data reaches everyone in a way most accessible and impactful.
 
