@@ -1,0 +1,5 @@
+site_name: Ankamala Articles
+
+nav:
+  - Home: index.md
+  - Article: NLP@Ankamala.md
