@@ -1,5 +1,5 @@
 site_name: Ankamala Insights-Data and Investigations
-site_url: https://github.com/olafOlaffff/blogs
+site_url: https://github.com/olafOlaffff/blogs.git
 theme:
   name: material
   features:
